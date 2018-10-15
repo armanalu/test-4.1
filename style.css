@@ -1,0 +1,30 @@
+body, html{
+    padding: 64px 16px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+}
+.dis{
+    padding: 16px 2px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    border: none !important;
+    padding: 8px;
+    width: 220px;
+    height: 120px !important;
+}
+.card-body{
+    border: 1px solid lightgray;
+    padding: 16px !important;
+    border-radius: 4px;
+}
+p{
+    color: cornflowerblue;
+}
+em{
+    color: gray;
+    font-style: normal;
+}
